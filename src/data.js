@@ -15,7 +15,7 @@ export const storeProducts = [
   },
   {
     id: 2,
-    title: "Yello T-shirt",
+    title: "Yellow T-shirt",
     img: "img/product-2.png",
     price: 106,
     company: "Best tshirts",
